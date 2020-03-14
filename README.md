@@ -3,9 +3,7 @@ GUI - Graphic User Interface 图形用户接口(界面)
 Swing包括了图形用户界面（GUI）器件如：文本框，按钮，分隔窗格和表。
 swing 类库由许多包组成，通过这些包中的类相互协作来完成 GUI 设计。其中，javax.swing 包是 swing 提供的最大包，它包含将近 100 个类和 25 个接口。几乎所有 swing 组件都在该包中。
 
-# javaBasics/
 
-java基础学习
 
 # JDBC/
 
@@ -25,6 +23,4 @@ MVC 是一种使用 MVC（Model View Controller 模型-视图-控制器） 设�
 * View（视图）显示数据（数据库记录）
 * Controller（控制器）处理输入（写入数据库记录）
 
-# StudyNotes/
-学习笔记
 
